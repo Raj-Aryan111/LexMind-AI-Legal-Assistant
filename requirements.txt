@@ -1,14 +1,8 @@
-fastapi
-uvicorn
 streamlit
-requests
 sentence-transformers
 qdrant-client
 pdfplumber
-streamlit-pdf-viewer
-python-multipart
-numpy
+openai
 torch
 transformers
-python-dotenv
-openai
+numpy
