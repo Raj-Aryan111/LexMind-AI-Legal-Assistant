@@ -1,0 +1,5 @@
+section_number,act,bailable,cognizable,punishment_min,punishment_max
+101,BNS,False,True,10,999
+102,BNS,True,True,1,7
+302,IPC,False,True,10,999
+379,IPC,True,True,0,3
