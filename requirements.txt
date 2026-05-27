@@ -4,5 +4,6 @@ qdrant-client
 pdfplumber
 openai
 torch
+torchvision
 transformers
 numpy
